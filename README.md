@@ -1,2 +1,2 @@
 # Hello-word
-## My name is Yinying HUo
+## My name is Yinying Huo
